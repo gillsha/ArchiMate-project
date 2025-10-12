@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Необходима составная перевозка?"
+    id="id-6cb8de3536ee41bf9570e8180d4dd174">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-f62e18957734434f8bef15031992adf9.xml#id-f62e18957734434f8bef15031992adf9"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-f1e1813fcc2143f8b8da1775890addce.xml#id-f1e1813fcc2143f8b8da1775890addce"/>
+</archimate:TriggeringRelationship>

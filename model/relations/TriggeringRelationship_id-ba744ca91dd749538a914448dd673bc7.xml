@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Да"
+    id="id-ba744ca91dd749538a914448dd673bc7">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-cd26596d40644805946b227063401426.xml#id-cd26596d40644805946b227063401426"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-192de0f8b31a47a2ac045995293dfd0e.xml#id-192de0f8b31a47a2ac045995293dfd0e"/>
+</archimate:TriggeringRelationship>
