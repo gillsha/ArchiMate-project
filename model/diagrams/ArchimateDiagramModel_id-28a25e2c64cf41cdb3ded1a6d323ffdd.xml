@@ -247,15 +247,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b4afd07995c7418eb48f1047d43d0a15"
-        source="id-83e8bedb7387499fbfac25a86fbc3f45"
-        target="id-bfe67fb7e3e0479f9527614e28ecb2c5">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-d9291b5c2da840dcb1463a810d7f7c4d.xml#id-d9291b5c2da840dcb1463a810d7f7c4d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a2c53ef722c646dc9734590590027c07"
         source="id-83e8bedb7387499fbfac25a86fbc3f45"
         target="id-50060826e3a2499996363b2986750911">
@@ -533,15 +524,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a7f75c76f5a448e4b622c463f034bb29"
-        source="id-7ba41d5ce08b46b7828a090cb622c19f"
-        target="id-bfe67fb7e3e0479f9527614e28ecb2c5">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-98d82132ef3348f2a04a0ac025679e33.xml#id-98d82132ef3348f2a04a0ac025679e33"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-1079294fc7e2481f8223b4f842ae872e"
         source="id-7ba41d5ce08b46b7828a090cb622c19f"
         target="id-c8c3bb61d91f48a9a75412cf1069812e">
@@ -606,19 +588,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-b4eeb345b46d40a693d4085164355156.xml#id-b4eeb345b46d40a693d4085164355156"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-bfe67fb7e3e0479f9527614e28ecb2c5"
-      targetConnections="id-a7f75c76f5a448e4b622c463f034bb29 id-b4afd07995c7418eb48f1047d43d0a15">
-    <bounds
-        x="1103"
-        y="708"
-        width="169"
-        height="62"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_id-ff8ef8d0cd56464893f8a16ba6165e60.xml#id-ff8ef8d0cd56464893f8a16ba6165e60"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
