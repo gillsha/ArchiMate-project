@@ -308,19 +308,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c9c5ebd09aba4a418b2cd913453471f1"
-      targetConnections="id-535ec29a66da4d928a7a943dfeda894f">
-    <bounds
-        x="1956"
-        y="120"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Representation"
-        href="Representation_id-666a73068d0f44988a5ecdc03c062368.xml#id-666a73068d0f44988a5ecdc03c062368"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b65e6bcb3ac84eeb8fdc20ca88bf2b34"
       targetConnections="id-ead4df3ff00e47848f6cc2ce6b373afc">
     <bounds
