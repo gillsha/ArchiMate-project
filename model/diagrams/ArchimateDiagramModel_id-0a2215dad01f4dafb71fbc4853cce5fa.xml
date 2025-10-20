@@ -297,15 +297,6 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-0249d28d301b46e499a5a1684ee7209b.xml#id-0249d28d301b46e499a5a1684ee7209b"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-edd1e675af09414e89898991b9249eec"
-        source="id-076bdcb00bc54a3c9a76ce5bda8a0de5"
-        target="id-d42b2b179ca74e48bdac3152b01f6de0">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-8b024a6118ea45f3a5b1007a14a2528f.xml#id-8b024a6118ea45f3a5b1007a14a2528f"/>
-    </sourceConnections>
     <bounds
         x="1717"
         y="288"
