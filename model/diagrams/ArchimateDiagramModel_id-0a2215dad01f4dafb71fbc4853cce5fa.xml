@@ -888,19 +888,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-47ffd43badb34531afd30b809af466d9"
-      targetConnections="id-89bc1b11d09f432dae203d285f24fa5d">
-    <bounds
-        x="3336"
-        y="492"
-        width="120"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:Representation"
-        href="Representation_id-d33c32af01eb40e3a1123c61e9f4f4b9.xml#id-d33c32af01eb40e3a1123c61e9f4f4b9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f9adcc2b400d4379abc3ea4a4033960e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
