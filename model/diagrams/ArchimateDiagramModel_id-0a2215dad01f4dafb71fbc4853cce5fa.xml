@@ -299,15 +299,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e63d14e171b1469ea03404b60ce241b4"
-        source="id-076bdcb00bc54a3c9a76ce5bda8a0de5"
-        target="id-edb745cd2f1849c1b86da550b91e12b2">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-5590718054dc482db23737e2a294c306.xml#id-5590718054dc482db23737e2a294c306"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-edd1e675af09414e89898991b9249eec"
         source="id-076bdcb00bc54a3c9a76ce5bda8a0de5"
         target="id-d42b2b179ca74e48bdac3152b01f6de0">
